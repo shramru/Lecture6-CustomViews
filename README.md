@@ -1,2 +1,2 @@
-# Lecture6-CustomView
+# Лекция №6. Custom Views, стили и темы.
 Пример из шестой лекции
