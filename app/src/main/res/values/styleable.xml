@@ -11,4 +11,7 @@
         <attr name="second_width" format="dimension"/>
     </declare-styleable>
 
+    <declare-styleable name="MyView">
+    </declare-styleable>
+
 </resources>
